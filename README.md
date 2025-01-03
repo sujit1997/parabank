@@ -35,6 +35,9 @@ _**Error Handling:**_ Captures screenshots of failed test cases for debugging pu
 **Requirements**
 
 _**Java 8+**_
+
 _**Selenium WebDriver**_
+
 _**TestNG**_
+
 _**Maven (for dependency management)**_
