@@ -35,3 +35,4 @@ The purpose of this automation framework is to validate Parabank’s core bankin
 
 ## 🏗️ Project Structure
 
+Open SRC Folder for test cases.
